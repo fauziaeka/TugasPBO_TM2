@@ -1,6 +1,6 @@
 
 
-# Pertemuan Pertama - Konsep Constructor, Casting, Super, This, Interface
+# Pertemuan Kedua - Konsep Constructor, Casting, Super, This, Interface
 
 # 📜 Topik Utama 
 - Constructor
